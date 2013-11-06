@@ -1,4 +1,4 @@
-# jQuery File Upload Plugin
+# jQuery File Upload Plugins
 
 ## Demo
 [Demo File Upload](http://blueimp.github.io/jQuery-File-Upload/)
